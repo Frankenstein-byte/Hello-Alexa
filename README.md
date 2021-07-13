@@ -38,7 +38,6 @@ After the setup is complete you can upload the file (main.py) and run directly t
 
 <h4 align="center"><img src=https://github.com/Frankenstein-byte/Hello-Alexa/blob/main/Demo.gif width ="600" height="350"></h4>
 
-<h4 align="center"><img src=https://github.com/Frankenstein-byte/Hello-Alexa/blob/main/1.jpg width ="600" height="450"></h4>
 
 ## Progress
 
